@@ -1,0 +1,73 @@
+,Pre RC ,,Post RC,,,,Pre RC ,,
+E&M Level Breakdown,RVU,% of charts,RVU,% of charts,,svc dprtmnt,E&M Level/ Speciality,AVERAGE of adj total rvu,COUNTA of E&M Level/ Speciality
+Level1,,,0.69,0.00,,AWC_OMNIA,Depression Screening,0.14,0.01%
+Level2,3.34,0.32%,2.38,0.00,,,Global period,0.07,3.96%
+Level3,2.98,13.22%,3.35,0.06,,,Injection Visit,0.46,0.04%
+Level4,4.06,9.30%,4.08,0.13,,,IUD Placement,3.60,0.05%
+Level5,5.56,0.76%,5.64,0.02,,,Level2,4.76,0.11%
+Non E&M Breakdown,,,,,,,Level3,3.13,1.63%
+Blood Draw,0.00,0.12%,0.00,0.02,,,Level4,4.12,2.52%
+Depression Screening,0.14,0.01%,0.14,0.00,,,Level5,5.43,0.19%
+Global period,0.08,21.79%,0.10,0.21,,,NST,1.46,0.67%
+Injection Visit,0.48,0.35%,0.43,0.00,,,Other,2.42,0.02%
+IUD Placement,3.46,0.10%,3.25,0.00,,,Post-OP Visit,0.00,0.09%
+NST,1.48,4.57%,1.45,0.05,,,Preventive Visits,5.62,1.18%
+Other,0.64,1.21%,0.40,0.01,,,Procedure,5.20,0.22%
+Post-OP Visit,0.00,0.51%,0.00,0.00,,,Radiology,4.47,3.40%
+Preventive Visits,4.74,4.23%,4.67,0.04,,,Telehealth Visit,1.86,0.50%
+Procedure,8.26,0.88%,7.85,0.01,,AWC_OMNIA Total,,2.91,14.59%
+Radiology,5.65,41.60%,5.80,0.41,,MFM_Chandler,Level3,2.82,0.08%
+Telehealth Visit,2.22,0.76%,2.89,0.04,,,Level4,4.08,0.07%
+Vaccination Visit,0.62,0.26%,0.72,0.00,,,Level5,5.37,0.04%
+Grand Total,3.57,100.00%,3.73,1.00,,,NST,1.44,0.03%
+,,,,,,,Other,0.44,0.27%
+svc dprtmnt,Pre RC ,,Post RC,,,,Radiology,6.19,0.58%
+AWC_OMNIA,2.91,,2.87,,,MFM_Chandler Total,,4.20,1.07%
+NVWC_OBGYN,2.19,,2.35,,,MFM_Estrella,Blood Draw,0.00,0.07%
+MFM_Estrella,4.81,,4.82,,,,Global period,0.08,0.05%
+MFM_Glendale,5.04,,5.13,,,,Injection Visit,0.42,0.06%
+MFM_Phoenix,5.08,,4.83,,,,Level2,2.13,0.06%
+MFM_Chandler,4.20,,3.59,,,,Level3,2.83,4.06%
+Grand Total,3.57,,3.73,,,,Level4,3.95,1.53%
+Improvement in RVU,,,,4.69%,,,Level5,5.53,0.15%
+,,,,,,,NST,1.48,1.73%
+,,,,,,,Other,0.84,0.06%
+E&M Level,Pre - RC ,Post - RC,,,,,Procedure,1.44,0.01%
+Level1,,0.01%,,,,,Radiology,6.00,13.73%
+Level2,0.32%,0.42%,,,,,Telehealth Visit,2.42,0.04%
+Level3,13.22%,5.59%,,,,MFM_Estrella Total,,4.81,21.55%
+Level4,9.30%,13.49%,,,,MFM_Glendale,Blood Draw,0.00,0.05%
+Level5,0.76%,2.48%,,,,,Injection Visit,0.42,0.04%
+,,,,,,,Level2,2.12,0.02%
+,,,,,,,Level3,2.81,4.15%
+,,,,,,,Level4,3.96,2.28%
+,,,,,,,Level5,5.70,0.25%
+,,,,,,,NST,1.51,1.24%
+,,,,,,,Other,0.63,0.86%
+,,,,,,,Procedure,2.18,0.02%
+,,,,,,,Radiology,6.52,13.89%
+,,,,,,,Telehealth Visit,2.95,0.18%
+,,,,,,MFM_Glendale Total,,5.04,22.96%
+,,,,,,MFM_Phoenix,Level3,3.09,0.05%
+,,,,,,,Level4,4.38,0.15%
+,,,,,,,Level5,5.34,0.04%
+,,,,,,,NST,1.44,0.05%
+,,,,,,,Radiology,5.78,0.71%
+,,,,,,,Telehealth Visit,3.14,0.05%
+,,,,,,MFM_Phoenix Total,,5.08,1.05%
+,,,,,,NVWC_OBGYN,Blood Draw,0.00,0.01%
+,,,,,,,Global period,0.09,17.78%
+,,,,,,,Injection Visit,0.52,0.21%
+,,,,,,,IUD Placement,3.34,0.05%
+,,,,,,,Level2,2.91,0.14%
+,,,,,,,Level3,3.30,3.26%
+,,,,,,,Level4,4.11,2.74%
+,,,,,,,Level5,5.73,0.09%
+,,,,,,,NST,1.46,0.85%
+,,,,,,,Post-OP Visit,0.00,0.42%
+,,,,,,,Preventive Visits,4.39,3.04%
+,,,,,,,Procedure,9.55,0.64%
+,,,,,,,Radiology,4.25,9.29%
+,,,,,,,Vaccination Visit,0.62,0.26%
+,,,,,,NVWC_OBGYN Total,,2.19,38.78%
+,,,,,,Grand Total,,3.57,100.00%
